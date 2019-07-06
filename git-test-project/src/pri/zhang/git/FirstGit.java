@@ -9,4 +9,9 @@ public class FirstGit {
         System.out.println("hello,world!");
         System.out.println("hello,world!");
     }
+
+    public void test(){
+        int i=10;
+        i+=10;
+    }
 }
